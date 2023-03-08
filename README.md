@@ -1,1 +1,3 @@
-devops
+pwd
+ls
+cd
