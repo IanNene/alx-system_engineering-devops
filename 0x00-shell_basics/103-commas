@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ampvg1
+ls -Ampvg
